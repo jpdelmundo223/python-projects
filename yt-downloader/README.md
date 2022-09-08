@@ -22,7 +22,7 @@ python3 cli.py https://www.youtube.com/watch?v=2lAe1cqCOXo --format audio
 python3 cli.py https://www.youtube.com/playlist?list=PL5NuQCLaTOJvGZbQatyQBynAC0qt3sckV --playlist --format audio
 ```
 
-- **Note:** Playlist should be available public for this to work properly, otherwise, it will return an emptry list `[]`
+- **Note:** Playlist should be available public for this to work properly. Otherwise, it will return an emptry list `[]`
 
 ## Features
 
